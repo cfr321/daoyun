@@ -1,0 +1,6 @@
+[submodule "daoyun-app-front"]
+	path = daoyun-app-front
+	url = https://github.com/cfr321/daoyun-app-front.git
+[submodule "daoyun-app-service"]
+	path = daoyun-app-service
+	url = https://github.com/XingXiaoGeGe/daoyun-app-service.git
