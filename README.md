@@ -20,3 +20,9 @@ git clone git@github.com:cfr321/daoyun.git
 
 - daoyun-app-front | 移动端
 - daoyun-app-service | 服务端
+- daoyun-backManage | 后台管理
+- daoyun-word | 项目文档
+
+
+
+### 具体每个部分细节请进入对应仓库查看
