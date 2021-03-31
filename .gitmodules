@@ -4,3 +4,9 @@
 [submodule "daoyun-app-service"]
 	path = daoyun-app-service
 	url = https://github.com/XingXiaoGeGe/daoyun-app-service.git
+[submodule "daoyun-backManage"]
+	path = daoyun-backManage
+	url = git@github.com:lurenjiaou/daoyun-backManage.git
+[submodule "daoyun-word"]
+	path = daoyun-word
+	url = git@github.com:allzr/daoyun-word.git
